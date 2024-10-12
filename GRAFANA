@@ -1,0 +1,16 @@
+User & Password GRAFANA: admin
+Код графаны: 3000
+Код прометеуса: http://prometheus:9090
+
+переходим на сайт localhost:3000
+в меню выбираем вкладку Dashboards и создаем Dashboard
+ждем кнопку +Add visualization, а после "Configure a new data source"
+выбираем Prometheus
+
+Connection
+http://prometheus:9090
+
+Authentication
+Basic authentication
+User: admin
+Password:admin
