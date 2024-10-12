@@ -14,3 +14,9 @@ Authentication
 Basic authentication
 User: admin
 Password:admin
+---------------------------------------------
+в меню выбираем вкладку Dashboards и создаем Dashboard
+ждем кнопку "Import dashboard"
+Find and import dashboards for common applications at grafana.com/dashboards: 1860  //ждем кнопку Load
+Select Prometheus
+ждем кнопку "Import"
