@@ -21,3 +21,15 @@ sudo systemctl enable docker --now
 sudo yum install curl
 
 COMVER=$(curl -s https://api.github.com/repos/docker/compose/releases/latest | grep 'tag_name' | cut -d\" -f4)
+
+//Tеперь скачиваем скрипт docker-compose и помещаем его в каталог /usr/bin:
+
+sudo curl -L "https://github.com/docker/compose/releases/download/$COMVER/docker-compose-$(uname -s)-$(uname -m)" -o /usr/bin/docker-compose
+
+//Даем права файлу на исполнение:
+
+chmod +x /usr/bin/docker-compose
+
+//Запускаем docker-compose с выводом его версии:
+
+docker-compose --version
