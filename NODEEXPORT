@@ -18,3 +18,5 @@ node-exporter:
       TZ: "Europe/Moscow"
     networks:
       - default
+
+:qw!
