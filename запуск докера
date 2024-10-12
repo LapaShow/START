@@ -1,0 +1,1 @@
+/mnt/common_volume/swarm/grafana/config/prometheus.yaml - исправить targets: на exporter:9100,
