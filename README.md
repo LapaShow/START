@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0fe5d836-ac93-4978-82cd-fab43ad218dc)![image](https://github.com/user-attachments/assets/8414ae49-9fb6-46d8-acd4-4c97b4de90c3)
+![image](https://github.com/user-attachments/assets/0fe5d836-ac93-4978-82cd-fab43ad218dc)
 ▶──◆─◈─◇─◈─◆─◆─◈─◇─◈─◆──◀
 
 :wq!
