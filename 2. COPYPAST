@@ -2,6 +2,7 @@
 
 git clone https://github.com/skl256/grafana_stack_for_docker.git
 //выдаст ошибку и предложит скачать git
+~!чтобы проверить наличие папки использовать команду "ls"
 
 cd grafana_stack_for_docker - переход в папку
 
