@@ -7,6 +7,7 @@ sudo yum install wget
 
 sudo wget -P /etc/yum.repos.d/ https://download.docker.com/linux/centos/docker-ce.repo
 
+//Везде прописываем "Y"
 //Устанавливаем docker:
 
 sudo yum install docker-ce docker-ce-cli containerd.io
