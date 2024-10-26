@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0fe5d836-ac93-4978-82cd-fab43ad218dc)
+тут какая-то картинка
 ▶──◆─◈─◇─◈─◆─◆─◈─◇─◈─◆──◀
 
 :wq!
