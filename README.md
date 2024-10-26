@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8414ae49-9fb6-46d8-acd4-4c97b4de90c3)
+![image](https://github.com/user-attachments/assets/0fe5d836-ac93-4978-82cd-fab43ad218dc)![image](https://github.com/user-attachments/assets/8414ae49-9fb6-46d8-acd4-4c97b4de90c3)
 ▶──◆─◈─◇─◈─◆─◆─◈─◇─◈─◆──◀
 
 :wq!
@@ -19,6 +19,7 @@
 
 ![image](https://github.com/user-attachments/assets/82a2fbc5-9f6d-469e-9353-d59fc179ff62)
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/b23883c2-d44a-4176-96a3-85591ce4b018)
+
 
 При появлении ошибки повторить процесс заново!
