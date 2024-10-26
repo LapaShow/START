@@ -17,5 +17,8 @@ touch /mnt/common_volume/grafana/grafana-config/grafana.ini - ничего не 
 cp config/* /mnt/common_volume/swarm/grafana/config/ - ничего не покажет
 
 mv grafana.yaml docker-compose.yaml - ничего не покажет, но можно проверить при помощи команды ls
+// Если не срабатывает, то проверить localhost в командной строке, должно быть [lapashiw@localhost grafana_stack_for_docker]$
+
+...
 
 sudo docker compose up -d
