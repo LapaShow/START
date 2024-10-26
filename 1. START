@@ -1,23 +1,23 @@
-//Для копипаста использовать ctrl+shift+V
+Общие правила: 
+1. Для копипаста использовать ctrl+shift+V
+2. Всегда вводить пароль, когда это требуется
+3. 
+
 //Устанавливаем wget:
 
 sudo yum install wget
 
 //Скачиваем файл репозитория:
-
 sudo wget -P /etc/yum.repos.d/ https://download.docker.com/linux/centos/docker-ce.repo
-
 //Везде прописываем "Y"
-//Устанавливаем docker:
 
+//Устанавливаем docker:
 sudo yum install docker-ce docker-ce-cli containerd.io
 
 //Запускаем его и разрешаем автозапуск:
-
 sudo systemctl enable docker --now
 
 //Для этого сначала убедимся в наличие пакета curl.
-
 б) На системы RPM:
 
 sudo yum install curl
