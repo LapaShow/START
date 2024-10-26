@@ -9,7 +9,16 @@
 Ищем нужный файл в папке X:\К-ИСП-49\Давыдов АА\Учебные материалы Давыдов
 
 ![image](https://github.com/user-attachments/assets/793ca6b2-4ec0-49c7-adbd-9215d0485d7d)
+
 ![image](https://github.com/user-attachments/assets/0154bb5f-40b3-4f09-935c-7ffdf07032b9)
+
 ![image](https://github.com/user-attachments/assets/7190a599-9e2a-462e-8c52-2fbf52c87d76)
 
 Далее следует запуск
+![image](https://github.com/user-attachments/assets/2b1227f9-b84e-438e-b147-fe7380b23d65)
+
+![image](https://github.com/user-attachments/assets/82a2fbc5-9f6d-469e-9353-d59fc179ff62)
+
+![Uploading image.png…]()
+
+При появлении ошибки повторить процесс заново!
