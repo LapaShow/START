@@ -1,3 +1,4 @@
+//Для копипаста использовать ctrl+shift+V
 //Устанавливаем wget:
 
 sudo yum install wget
