@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/6ccebb43-249b-4d0a-b1e7-5bb8dab805e1)
 
-▶──◆─◈─◇─◈─◆─◆─◈─◇─◈─◆──◀
+──◆─◈─◇─◈─◆─◆─◈─◇─◈─◆──
 
 :wq!
 
