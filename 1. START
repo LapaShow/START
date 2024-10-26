@@ -30,7 +30,7 @@ sudo curl -L "https://github.com/docker/compose/releases/download/$COMVER/docker
 
 //Даем права файлу на исполнение:
 
-chmod +x /usr/bin/docker-compose
+sudo chmod +x /usr/bin/docker-compose
 
 //Запускаем docker-compose с выводом его версии:
 
