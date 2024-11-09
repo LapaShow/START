@@ -1,7 +1,8 @@
-cd grafana_stack_for_docker //
+cd grafana_stack_for_docker // возможно, уже находитесь там
 
 sudo vi docker-compose.yaml
-//
+//перекинет внутрь файла, требуется заменить ВЕСЬ КОД на КОД НИЖЕ
+...
 
 version: "3"
 
@@ -150,4 +151,17 @@ networks:
 #  grafana_prometheus_password:
 #    external: true
 
-//
+...
+// Далее переходим по ссылке localhost:8428. Перекинет на сайт с некрасивым интерфейсом (посмотреть в скриншотах)
+
+
+//Для проверки работы вводится команда
+
+echo -e "# TYPE OILCOINT_metric1 gauge\nOILCOINT_metric1 0" | curl --data-binary @- http://localhost:8428/api/v1/import/prometheus  //вместо 0" вводится любое число для проверки работоспособности
+
+//Данные могут прийти не сразу, стоит подождать некоторое время
+
+//Вернемся к ссылке localhost, указанной выше, нажимаем на выделенный фрагмент vmui, откроется окно, где будут показаны пришедшие данные. В верхнее окно не забыть указать OILCOINT_metric1 и запомнить это значение.
+
+//Создаем новый dashboard в GRAFANA 
+//в строку connection пишем 
