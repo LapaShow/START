@@ -165,3 +165,5 @@ echo -e "# TYPE OILCOINT_metric1 gauge\nOILCOINT_metric1 0" | curl --data-binary
 
 //Создаем новый dashboard в GRAFANA 
 //в строку connection пишем http://victoriametrics:8428  БОЛЬШЕ НИЧЕГО НЕ МЕНЯЕМ И СПОКОЙНО СОХРАНЯЕМ
+
+//скрины https://docs.google.com/document/d/1uuRJACyOuT8ZUlkri9FQ1zgLbnNxj0bGCOBQsCmCguY/edit?tab=t.swyj5iykc9y
