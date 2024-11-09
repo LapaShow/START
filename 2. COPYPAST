@@ -24,3 +24,5 @@ mv grafana.yaml docker-compose.yaml - ничего не покажет, но м�
 sudo docker compose up -d
 
 //Если не сработает, то проверить название файла, ввести команду ..., если неверное название
+
+//скрины https://docs.google.com/document/d/1uuRJACyOuT8ZUlkri9FQ1zgLbnNxj0bGCOBQsCmCguY/edit?tab=t.swyj5iykc9y
