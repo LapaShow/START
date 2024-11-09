@@ -1,3 +1,4 @@
+sudo vi docker-compose.yaml
 node-exporter:
     image: prom/node-exporter
     volumes:
