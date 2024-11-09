@@ -26,3 +26,4 @@
 При появлении ошибки повторить процесс заново!
 После установки игнорируем все поля кроме логина и пароля
 
+//скрины https://docs.google.com/document/d/1uuRJACyOuT8ZUlkri9FQ1zgLbnNxj0bGCOBQsCmCguY/edit?tab=t.swyj5iykc9y
