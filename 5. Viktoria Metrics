@@ -164,4 +164,4 @@ echo -e "# TYPE OILCOINT_metric1 gauge\nOILCOINT_metric1 0" | curl --data-binary
 //Вернемся к ссылке localhost, указанной выше, нажимаем на выделенный фрагмент vmui, откроется окно, где будут показаны пришедшие данные. В верхнее окно не забыть указать OILCOINT_metric1 и запомнить это значение.
 
 //Создаем новый dashboard в GRAFANA 
-//в строку connection пишем 
+//в строку connection пишем http://victoriametrics:8428
