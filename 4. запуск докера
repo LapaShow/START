@@ -5,3 +5,7 @@ cd /mnt/common_volume/swarm/grafana/config/
 
 sudo vi prometeus.yaml
 //запросит пароль
+
+//После не забыть сменить NODEEXPORTER
+
+//скрины https://docs.google.com/document/d/1uuRJACyOuT8ZUlkri9FQ1zgLbnNxj0bGCOBQsCmCguY/edit?tab=t.swyj5iykc9y
