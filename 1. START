@@ -35,3 +35,5 @@ sudo chmod +x /usr/bin/docker-compose
 //Запускаем docker-compose с выводом его версии:
 
 docker-compose --version
+
+//скрины https://docs.google.com/document/d/1uuRJACyOuT8ZUlkri9FQ1zgLbnNxj0bGCOBQsCmCguY/edit?tab=t.swyj5iykc9y
